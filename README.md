@@ -36,7 +36,7 @@ This repository is for the front-end. The front-end is hosted on Netlify.
 ### Back End
 
 The back-end is hosted on two different Heroku Dynos. One for the Musical Chat Rest API, and the other for the Spotify Authentication.
-The back-end repository is: https://github.com/machadop1407/musical-connection
+
 
 
 ## Design:
