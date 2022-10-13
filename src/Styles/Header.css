@@ -1,0 +1,25 @@
+body {
+  background-color: #181313;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0%;
+}
+
+button:focus {
+  outline: 0;
+}
+
+input:focus {
+  outline: 0;
+}
+
+.navbar {
+  background-color: #13bd64;
+  box-shadow: 2px 2px 8px black;
+  min-height: 80px;
+  padding-left: 10px;
+}
+
+.navbar-logo img {
+  margin-top: 15px;
+  margin-left: 20px;
+}
